@@ -9,13 +9,13 @@ This is a Heroku deployed project that conveniently allows you to take notes whi
 
 ## Usage
 
-Depolyed App: [Note Taker Heroku Deployment]()
+Depolyed App: [Heroku Deployment](https://morning-mountain-63639.herokuapp.com/)
 
 Click on the link above to navigate to the 'Note Taker' homepage. On the homepage you will click 'get started'. Clicking the 'get started' button will take you to the notes page. On the notes page you will see previuosly saved notes to the left of the screen, and on the right, you will be able to add a new note. To add a new note, you must have a note title and note text. Once both of these fields are filled in, the floppy disc icon will pop up. After it pops up, you will be able to click on the floppy disc icon to save the note. You can click on the notes to view them again, and click on the plus sign to add another note. You are also capable of deleting your saved notes. To delete saved notes, click the red trashcan icon next to that specific note.
 
 Click the link below to watch the Demo.
 
-[Note Taker Demo]()
+[Demo](https://drive.google.com/file/d/1CJNLu0rokBExuFWCGdlLci8eF_HZijEu/view)
 
 ## Third-Party Assets
 
