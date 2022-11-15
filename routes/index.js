@@ -7,8 +7,8 @@ const notesRouter = require("./notes.js");
 // Shorthand for calling express
 const app = express();
 
-// Router middleware to use our modular route for /notes
+// Router middleware to use route for /notes
 app.use("/notes", notesRouter);
 
-// Exports our router middleware
+// Exports router middleware
 module.exports = app;

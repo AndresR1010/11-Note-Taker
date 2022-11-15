@@ -1,7 +1,7 @@
 {
-  "name": "quick-notes",
+  "name": "note-taker",
   "version": "1.0.0",
-  "description": "This is a note taking app for making quick and easy notes.",
+  "description": "This is a note taking app for making.",
   "main": "server.js",
   "directories": {
     "doc": "docs"
